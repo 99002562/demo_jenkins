@@ -1,6 +1,6 @@
 package Email;
 
-public class emailmain {
+public class emailmain extends email{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
